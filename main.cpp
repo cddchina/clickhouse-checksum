@@ -15,6 +15,9 @@ https://www.bchrt.com/tools/hex-calculator/
 4097548376169627610
 
 
+11039514654693989345--uint64 to hex--99343C16ADC11BE1
+876336294829557986--uint64 to hex--0C295F37951908E2
+
 */
 int main() {
 
