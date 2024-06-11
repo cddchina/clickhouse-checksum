@@ -27,3 +27,6 @@ enum class CompressionMethodByte : uint8_t
     ZSTD_QPL        = 0x9b,
 };
 ```
+
+# 编译命令
+g++ -std=c++11 main.cpp city.cc
